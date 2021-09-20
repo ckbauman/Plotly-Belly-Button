@@ -8,23 +8,23 @@ This Plotly project used Belly Button bacteria and washing data to track sample 
 
 The Dashboard includes charts and demographic data for each Test Subject Individual selected.
 
-INSERT:  Full image
+![full image](https://github.com/ckbauman/Plotly-Belly-Button/blob/main/static/images/Full.png)
 
 Demographic Information is displayed when a Test Subject ID is selected from the dropdown box.
 
-INSERT:  Demo image
+![demo image](https://github.com/ckbauman/Plotly-Belly-Button/blob/main/static/images/Demo.png)
 
 The Top 10 Bacteria Cultures are displayed as a Bar Chart when a Test Subject ID is selected.
 
-INSERT: Bar image
+![bar image](https://github.com/ckbauman/Plotly-Belly-Button/blob/main/static/images/Bar.png)
 
 Bacteria Cultures per Sample are displayed as a Bubble Chart when a Test Subject ID is selected.
 
-INSERT: Bubble image
+![bubble image](https://github.com/ckbauman/Plotly-Belly-Button/blob/main/static/images/Bubble.png)
 
 Belly Button Washing Frequency is displayed as a Gauge Chart when a Test Subject ID is selected.
 
-INSERT: Gauge image
+![gauge image](https://github.com/ckbauman/Plotly-Belly-Button/blob/main/static/images/Gauge.png)
 
 
 ## Summary
@@ -33,7 +33,7 @@ INSERT: Gauge image
 - Deliverable 2:  Bubble Chart created
 - Deliverable 3:  Gauge Chart created
 - Deliverable 4:  Customize Dashboard created
-    1. Added image to jumbotron
-    2. Added customized color to Bubble Chart and Jumbotron
-    3. Made webpage mobile-responsive
+    - Added image to jumbotron
+    - Added customized color to Bubble Chart and Jumbotron
+    - Made webpage mobile-responsive
 
